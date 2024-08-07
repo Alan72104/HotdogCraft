@@ -1,0 +1,2 @@
+cmake -DCMAKE_BUILD_TYPE=Debug -Bout/build/x64-Debug . &&
+cmake --build out/build/x64-Debug --target HotdogCraftGame -- -j
